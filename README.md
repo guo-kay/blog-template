@@ -18,7 +18,7 @@
 
 ## 安装步骤
 
-* 全局安装nexo模块;
+* 全局安装hexo模块;
 
 ```bash
 npm install -g hexo
